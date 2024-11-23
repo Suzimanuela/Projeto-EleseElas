@@ -110,7 +110,7 @@ footer{
     position: fixed;
          }
 
-     img {
+     img, video {
         
             min-width: 10%;
             max-width: 100%;
